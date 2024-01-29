@@ -2,4 +2,4 @@
 The repo for mission 1 AerE361
 
 
-The repo will incule many of the features that are possible in github. .
+The repo will  many of the features that are possible in github. .
